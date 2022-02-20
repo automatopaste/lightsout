@@ -1,0 +1,10 @@
+{
+	"id":"lights_out",
+	"name":"Lights Out",
+	"author":"tomatopaste",
+	"version":"1.2.0",
+	"description":"Special procedural-generation effects that occur on creation of a new game. Currently hides star systems on the hyperspace map, and generates moons around planets.",
+	"gameVersion":"0.95.1a-RC6",
+	"jars":["jars/LightsOut.jar"],
+	"modPlugin":"plugins.lout_ModPlugin",
+}

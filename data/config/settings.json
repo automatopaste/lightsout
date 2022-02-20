@@ -1,0 +1,18 @@
+{
+		#spawn moons during sector generation
+		"lout_DoMoonSpawning":true,
+
+		#body sizes for generation
+		"lout_MinimumPlanetRadiusForMoonSpawning":150, #minimum radius a planet must have before the generator tries to put moons around it
+		"lout_PlanetRadiusDivisor":105, #higher number means lower max moon count per planet
+		"lout_HabitableProbability":8, #higher is lower chance for habitable planets
+
+		#hide systems outside the core worlds upon sector generation
+		"lout_HideSystems":true,
+
+		#number of wormhole bridges (unused)
+		#"lout_NumBridges":50,
+		#"lout_DoBridgeSpawning":false,
+
+		"lout_MoonPopCap":4
+}

@@ -1,0 +1,6 @@
+1.2.0
+-added Planetary Moon condition to all moons, impedes population growth beyond a capped limit (settings.json to modify)
+-updated to 0.95.1a-RC6
+
+1.1.0
+-added console commands to do generation when added to a save
